@@ -1,4 +1,4 @@
-# Thermal-Engineer-Slide-Rule
+# Thermal Engineering Slide Rule
 This Github repository contains the Python code used to generate a slide rule calculating the Nusselt number based on the famous Dittus-Boelter correlation (1930). It also contains examples of slide rules generated with the code.
 <img width="1388" height="441" alt="image" src="https://github.com/user-attachments/assets/1078587e-96bc-497a-8e0a-d6f1e67e3a4f" />
 
